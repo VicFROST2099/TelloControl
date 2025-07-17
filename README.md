@@ -11,10 +11,12 @@ The main window that opens should auto adjust to the resolution of the monitor o
 Features:
 - Real-Time Keyboard Controls
 - Live video stream
+  
 Requirements:
 - Dji / Ryze Tello Drone
 - Python 3.6 or up
 - Installed the required libraries from the requirements.txt file
+
 Installation:
 - git clone https://github.com/yourusername/TelloControl.git
 - cd TelloControl
